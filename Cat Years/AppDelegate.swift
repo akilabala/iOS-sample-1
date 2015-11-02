@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  Cat Years
 //
-//  Created by Anoop Narayanan on 11/1/15.
+//  Created by Akila Balasubramanian on 11/1/15.
 //  Copyright © 2015 Fun App. All rights reserved.
 //
 
